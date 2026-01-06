@@ -170,3 +170,7 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 /experiment_info.json
+
+# Secrets
+deployment_accessKeys.csv
+github_actions.txt

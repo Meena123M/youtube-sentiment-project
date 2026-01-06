@@ -1,10 +1,10 @@
 from setuptools import find_packages, setup
 
 setup(
-    name = 'youtube',
+    name = 'project',
     version= '0.0.0',
-    author= 'Bappy',
-    author_email= 'entbappy73@gmail.com',
+    author= 'meena',
+    author_email= 'meena@gmail.com',
     packages= find_packages(),
     install_requires = []
 
